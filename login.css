@@ -1,0 +1,141 @@
+* {
+				margin: 0 auto;
+			}
+			
+			#tb {
+				width: 1000px;
+				height: 100px;
+			}
+			
+			.log {
+				padding-left: 20px;
+			}
+			
+			.banner {
+				width: 1000px;
+				height: 500px;
+			}
+			
+			.zx {
+				width: 1000px;
+				margin-bottom: 10px;
+			}
+			
+			#dl {
+				width: 200px;
+				height: 30px;
+				background: goldenrod;
+				position: relative;
+				left: 40px;
+				top: 5px;
+				border-radius:5px;
+			}
+			#name{
+				width: 290px;
+				 height: 25px; 
+				 color: #ccc;
+				 padding-left: 10px;
+			}
+			#password{
+				padding-left: 10px;
+				width: 290px;
+				 height: 25px; 
+				 color:#ccc;
+			}
+			#zc {
+				width: 80px;
+				height: 30px;
+				position: relative;
+				left: 20px;
+				top: 5px;
+				border-radius: 5px;
+			}
+			
+			.lzl {
+				width: 380px;
+				height: 400px;
+				background: whitesmoke;
+				border: 3px solid antiquewhite;
+				position: relative;
+				top: -480px;
+				left: 280px;
+			}
+			
+			ul li {
+				float: left;
+				list-style: none;
+				color: rosybrown;
+				font-size: 12px;
+			}
+			
+			.jz1 {
+				width: 600px;
+				font-size: 10px;
+			}
+			
+			.jz2 {
+				width: 500px;
+				font-size: 10px;
+			}
+			
+			.jz3 {
+				width: 850px;
+				font-size: 10px;
+				position: relative;
+				left: 160px;
+			}
+			
+			.jz4 {
+				height: 30px;
+				background: goldenrod;
+			}
+			
+			.jz {
+				background:#EFEFEF;
+				padding: 10px;
+				height: 280px;
+				margin: 10px;
+				line-height: 30px;
+				text-align: center;
+				
+			}
+			
+			a {
+				text-decoration: none;
+			}
+			
+			.wj {
+				font-size: 12px;
+				color:#ccc;
+				position: relative;
+				right: 50px;
+			}
+			
+			.qdl {
+				margin-left: 50px;
+				font-size: 12px;
+				color: aquamarine;
+			}
+			
+			span {
+				position: relative;
+				margin: 10px
+			}
+			
+			.tp1,
+			.tp2,
+			.tp3,
+			.tp4,
+			.tp5,
+			.tp6,
+			.tp7,
+			.tp8,
+			.tp9,
+			.tp10 {
+				position: relative;
+				bottom: -5px;
+			}
+			.xx{
+				margin: 10px;
+				color: powderblue;
+			}
